@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    titleWeb: "Ad Huy",
+    introTitle: 'hello',
+    introDesc: `hỏi tí nha`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
+    title: 'ta có phải là người đẹp trai nhất thiên hạ ko 🥰',
+    desc: 'ko trả lời mà out ra là muốn làm vk ta r ;)) ',
+    btnYes: 'Đr, anh đẹp trai nhất ;))',
+    btnNo: 'anh mơ à:))',
+    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại nói mình thế <3',
+    btnReply: 'Gửi <3',
+    reply: 'vì anh đẹp trai ;))',
+    mess: 'Mình biết mà ',
+    messDesc: 'còn đợi j nữa mà ko ib cho mình.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messlink: 'https://m.me/huytrumsvzxc' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
